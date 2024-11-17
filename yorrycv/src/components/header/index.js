@@ -5,7 +5,7 @@ const Header = () => {
           <div className="container">
             <div className="hero-content">
               <div className="profile">
-                <img src="image/saya.jpg" alt="Foto Yorry Efrem" />
+                <img src="image/Profile.jpg" alt="Foto Yorry Efrem" />
               </div>
               <div className="info">
                 <h1>Yorry Efrem</h1>
