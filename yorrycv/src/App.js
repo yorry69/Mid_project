@@ -1,10 +1,12 @@
 import './App.css';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
     <div>
-  <header />   
+  <Header /> 
+ <Footer/>   
   <main>
     <section id="about" className="section about">
       <div className="container">
