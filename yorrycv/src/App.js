@@ -1,25 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
 
 const App = () => {
   return (
     <div>
-  <header>
-    <div className="hero">
-      <div className="container">
-        <div className="hero-content">
-          <div className="profile">
-            <img src="images.jpeg" alt="Foto Yorry Efrem" />
-          </div>
-          <div className="info">
-            <h1>Yorry Efrem</h1>
-            <p>Mahasiswa IT Tingkat 3<br />Universitas Klabat</p>
-            <a href="#about" className="btn">Selengkapnya</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <header />   
   <main>
     <section id="about" className="section about">
       <div className="container">
